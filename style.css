@@ -1,0 +1,57 @@
+body {
+    font-family: sans-serif;
+}
+.icon {
+color:violet;
+background-color:teal;
+font-size:larger;
+    
+    padding: 3px;
+    background-color:black;
+    border-radius: 33px;
+    margin: 20px;
+}
+main a{
+
+color: red;
+}
+header a{
+   
+    padding: 3px;
+    background-color:gold;
+    border-radius: 60px;
+    margin: 10px;
+color: green;
+}
+.corn{
+
+color:blue;
+    padding: 3px;
+    background-color:lightgrey;
+    border-radius: 30px;
+    margin: 10px;
+}
+.icol{
+background-color: brown;
+color: chartreuse;
+}
+.icor{
+padding: 3px;
+    background-color:coral;
+    border-radius: 30px;
+    margin: 300px;
+
+}
+.core{
+color: darkgoldenrod;
+padding: 6px;
+    background-color:rgba(18, 111, 178, 0.382);
+    border-radius: 21px;
+    margin: 12px;
+font-size:18px;
+}
+.nope{
+font-size:35px;
+color: purple;
+background-color:lime;
+}
